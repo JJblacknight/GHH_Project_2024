@@ -1,20 +1,8 @@
 from flask import Flask, request, jsonify
+from controllers.emotion_controller import get_emotion
+from controllers.restaurant_controller import get_restaurants
 
 app = Flask(__name__)
-
-def get_restaurants(emotion):
-    # TODO: Generate a list of restaurants based on the emotion
-
-    restaurants = {}
-
-    return restaurants
-
-def get_emotion(user_input):    
-    # TODO: Determine the emotion based on the user input
-    
-    emotion = "happy"
-
-    return emotion
 
 @app.route('/api/emotion', methods=['POST'])
 def handle_request():
@@ -27,7 +15,6 @@ def handle_request():
         emotion = get_emotion(user_input)
         restaurants = get_restaurants(emotion)
 
-        # Return a JSON response
         return jsonify({
             "user_input": user_input,
             "emotion": emotion,
