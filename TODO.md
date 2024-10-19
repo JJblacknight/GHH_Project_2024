@@ -30,7 +30,8 @@
 
 ### controllers/emotion_controller.py
 - [x] Create method to return a general emotion given the user's input
-- [ ] Create method to return a list of restaurants and foods from the emotion
+- [x] Create method to return a list of restaurants from the emotion
+- [ ] Create method to return a list of foods from the emotion
 - [ ] Create method to return a response to how they're feeling
 
 ### data/restaurants.json
