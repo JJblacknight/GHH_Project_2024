@@ -1,2 +1,4 @@
 backend/venv/
 *.pyc
+*.env
+*.json
