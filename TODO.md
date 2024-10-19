@@ -26,7 +26,7 @@
 - [x] Create method to handle errors in case input is invalid or emotion logic fails
 - [ ] If time permits: create method to log requests & errors
 - [ ] If time permits: document API endpoints for frontend
-- [ ] Test sending input & receiving output with Postman
+- [x] Test sending input & receiving output with Postman
 
 ### controllers/emotion_controller.py
 - [x] Create method to return a general emotion given the user's input
@@ -35,4 +35,4 @@
 
 ### data/restaurants.json
 - [x] Create a list of restaurants and foods in the Charlottesville area (possibly using data scraping)
-- [ ] Map each restaurant/food to emotions (use AI to help)
+- [x] Map each restaurant/food to emotions (use AI to help)
