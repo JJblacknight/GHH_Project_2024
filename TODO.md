@@ -1,20 +1,20 @@
 # TODO List for Web Application
 
 ## Initial Page
-- [ ] Create a text area component
-    - [ ] Add a label for the text area
-    - [ ] Add a button to submit the input
+- [X] Create a text area component
+    - [X] Add a label for the text area
+    - [X] Add a button to submit the input
 
 ## Second Page
-- [ ] Create a menu bar
-    - [ ] Add two items to the menu bar
-        - [ ] Link each item to a card component
-- [ ] Create two card components
+- [X] Create a menu bar
+    - [X] Add items to the menu bar
+        - [X] Link each item to a card component
+- [X] Create card components
     - [ ] Display content based on the text input from the initial page
 
 ## General
 - [ ] Set up project structure
-- [ ] Implement routing between pages
+- [X] Implement routing between pages
 - [ ] Style components with CSS
 - [ ] Test the application
 
