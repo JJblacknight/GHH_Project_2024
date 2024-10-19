@@ -34,5 +34,5 @@
 - [ ] Create method to return a response to how they're feeling
 
 ### data/restaurants.json
-- [ ] Create a list of restaurants and foods in the Charlottesville area (possibly using data scraping)
+- [x] Create a list of restaurants and foods in the Charlottesville area (possibly using data scraping)
 - [ ] Map each restaurant/food to emotions (use AI to help)
