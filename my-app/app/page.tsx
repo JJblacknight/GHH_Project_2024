@@ -38,8 +38,11 @@ export default function Home() {
       const data = await response.json();
       console.log('Recommended Restaurants:', data.restaurants);
 
+      // Ensure that the API returns `feedback` in the response
+      const feedback = data.feedback || "No feedback available"; // Fallback if feedback is not provided
+
       // Pass data to the results page
-      router.push(`/results?restaurants=${encodeURIComponent(JSON.stringify(data.restaurants))}`);
+      router.push(`/results?restaurants=${encodeURIComponent(JSON.stringify(data.restaurants))}&feedback=${encodeURIComponent(feedback)}`);
 
     } catch (error) {
       console.error('Error fetching recommendations:', error);

@@ -8,7 +8,7 @@ export default function ResultPage() {
   const searchParams = useSearchParams(); // Get the search params from URL
   const message = searchParams.get("message"); // Get the "message" query param
 
-  // State for holding the first restaurant
+  // State for holding the first restaurant and feedback
   interface Restaurant {
     name: string;
     photos: string[];
@@ -16,41 +16,50 @@ export default function ResultPage() {
   }
 
   const [restaurant, setRestaurant] = useState<Restaurant | null>(null);
+  const [feedback, setFeedback] = useState<string | null>(null);
 
-  // UseEffect to get data from the query params and set the first restaurant
+  // UseEffect to get data from the query params and set the first restaurant and feedback
   useEffect(() => {
     const restaurantsParam = searchParams.get("restaurants");
+    const feedbackParam = searchParams.get("feedback");
     if (restaurantsParam) {
       const fetchedRestaurants = JSON.parse(decodeURIComponent(restaurantsParam));
       // Set only the first restaurant
       setRestaurant(fetchedRestaurants[0]);
     }
+    if (feedbackParam) {
+      setFeedback(decodeURIComponent(feedbackParam));
+    }
   }, [searchParams]);
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen">
-      <h1 className="text-2xl mb-4"> Because you were feeling {message}:</h1>
 
       <div className="flex flex-col gap-8 p-8">
         {/* Render the fetched restaurant */}
-        <h1 className="text-2xl font-bold">Recommended Restaurant</h1>
+        {feedback && (
+          <div id="feedback" className="mb-8 w-full flex justify-start"> {/* Decreased margin-bottom */}
+            <SimpleCard content={feedback} type="text" /> {/* Adjust width */}
+          </div>
+        )}
+        <h1 className="text-2xl font-bold">Recommended Restaurant:</h1>
         {restaurant ? (
-          <>
+          <div className="flex flex-col gap-8 p-8">
             {/* Card for the restaurant name */}
-            <div id="restaurant" className="mb-32"> {/* Add large margin-bottom */}
-              <SimpleCard content={restaurant.name} type="text" />
+            <div id="restaurant" className="mb-8 w-full flex justify-start"> {/* Decreased margin-bottom */}
+              <SimpleCard content={restaurant.name} type="text" /> {/* Adjust width */}
             </div>
 
             {/* Card for the restaurant image */}
-            <div id="picture" className="mb-32"> {/* Add large margin-bottom */}
-              <SimpleCard content={restaurant.photos[0]} type="image" /> {/* Display the first image from the photos array */}
+            <div id="picture" className="mb-8 w-full"> {/* Decreased margin-bottom */}
+              <SimpleCard content={restaurant.photos[0]} type="image" /> {/* Adjust width */}
             </div>
 
             {/* Card for the restaurant address */}
-            <div id="address" className="mb-32"> {/* Add large margin-bottom */}
-              <SimpleCard content={restaurant.address} type="text" />
+            <div id="address" className="mb-8 w-full flex justify-start"> {/* Decreased margin-bottom */}
+              <SimpleCard content={restaurant.address} type="text" /> {/* Adjust width */}
             </div>
-          </>
+          </div>
         ) : (
           <p>No recommendations found</p>
         )}
