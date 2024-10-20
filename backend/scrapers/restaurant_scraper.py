@@ -4,6 +4,7 @@ import os
 from dotenv import load_dotenv
 import time
 
+GOOGLE_URL = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json'
 UVA_LOCATION = "38.0317528,-78.5108897" # rice hall
 RESTAURANT_TYPES = "restaurant|cafe|bar|bakery|meal_takeaway|meal_delivery"
 RAW_FILE_NAME = 'backend/data/raw_restaurants.json'
@@ -15,12 +16,11 @@ load_dotenv()
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 
 def fetch_places(params, amount=10):
-    GOOGLE_URL = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json'
     response = requests.get(GOOGLE_URL, params=params)
     data = response.json()
 
-    all_places = []
-    all_places.extend(data.get('results', []))
+    places = []
+    places.extend(data.get('results', []))
 
     while 'next_page_token' in data:
         next_page_token = data['next_page_token']
@@ -31,12 +31,12 @@ def fetch_places(params, amount=10):
         response = requests.get(GOOGLE_URL, params=params)
         data = response.json()
 
-        all_places.extend(data.get('results', []))
+        places.extend(data.get('results', []))
 
-        if len(all_places) >= amount:
+        if len(places) >= amount:
             break
 
-    return all_places[:MAX_RESTAURANTS]
+    return places[:MAX_RESTAURANTS]
 
 def simplify_place(place):
     photo_urls = []
@@ -50,7 +50,8 @@ def simplify_place(place):
         'name': place.get('name'),
         'rating': place.get('rating'),
         'address': place.get('vicinity'),
-        'photos': photo_urls
+        'photos': photo_urls,
+        'emotions': [],
     }
 
 def save_to_json(file_name, data):
@@ -71,7 +72,7 @@ def __main__():
         print("Failed to find restaurants")
         return
     
-    save_to_json(RAW_FILE_NAME, restaurants)
+    save_to_json(f"{RAW_FILE_NAME}", restaurants)
 
     for i, place in enumerate(restaurants):
         restaurants[i] = simplify_place(place)
