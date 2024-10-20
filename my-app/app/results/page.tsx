@@ -34,16 +34,17 @@ export default function ResultPage() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen">
-      <h1 className="text-2xl mb-4"> Because you were feeling {message}</h1>
 
       <div className="flex flex-col gap-8 p-8">
         {/* Render the fetched restaurant */}
-        <h1 className="text-2xl font-bold">Recommended Restaurant:</h1>
         {feedback && (
           <div id="feedback" className="mb-16 w-full flex justify-start"> {/* Decreased margin-bottom */}
             <SimpleCard content={feedback} type="text" /> {/* Adjust width */}
           </div>
         )}
+
+        <h1 className="text-2xl font-bold">Recommended Restaurant:</h1>
+        
         {restaurant ? (
           <div className="flex flex-col gap-8 p-8">
             {/* Card for the restaurant name */}
