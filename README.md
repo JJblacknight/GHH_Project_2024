@@ -89,6 +89,7 @@ Enter how you're feeling to receive a recommended restaurant to eat in Charlotte
 * Frontend:
   * Next.js
   * shadcn/ui
+  * React
 * Backend:
     * Python
     * Flask
