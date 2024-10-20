@@ -30,6 +30,10 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <video className="video-background" autoPlay loop muted>
+          <source src="/CloudsBackground.mp4" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
         <NavbarContainer/>
         {children}
       </body>

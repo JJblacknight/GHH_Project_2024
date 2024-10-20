@@ -23,6 +23,8 @@ def handle_request():
         feedback = get_feedback(user_input)
         restaurants = get_restaurants(emotion)
         output = {
+            "user_input": user_input,
+            "emotion": emotion,
             "restaurants": restaurants,
             "feedback": feedback,
         }
