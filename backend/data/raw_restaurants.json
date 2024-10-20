@@ -1,0 +1,3206 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0316188,
+                "lng": -78.51084589999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0330993802915,
+                    "lng": -78.5097104697085
+                },
+                "southwest": {
+                    "lat": 38.0304014197085,
+                    "lng": -78.51240843029152
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Einstein Bros. Bagels",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 480,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112495500768011343749\">Einstein Bros. Bagels</a>"
+                ],
+                "photo_reference": "AdCG2DMaqvmyk0v7W5QL5w8xOHJLQYERsJ18bCyKLYDajzq1WbOFz5MC_raSKF5WZtDh1x5wIlLXBO2E5JYleBn10hH3dETT2Qk8tCM0sQVPNRJeClM-d21VtJdiSRUOa1ytFCIVd-LtsOgXOta0npPm8t6Nf5aSe4kUXwFS2moDAzrZJaa5",
+                "width": 480
+            }
+        ],
+        "place_id": "ChIJV8f6jEyGs4kRpKGACIQJ8Bo",
+        "plus_code": {
+            "compound_code": "2FJQ+JM Charlottesville, VA, USA",
+            "global_code": "87C32FJQ+JM"
+        },
+        "price_level": 1,
+        "rating": 3.8,
+        "reference": "ChIJV8f6jEyGs4kRpKGACIQJ8Bo",
+        "scope": "GOOGLE",
+        "types": [
+            "bakery",
+            "cafe",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 54,
+        "vicinity": "85 Engineer's Way, Charlottesville"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 38.0325363,
+                "lng": -78.5138892
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03398358029149,
+                    "lng": -78.51267331970848
+                },
+                "southwest": {
+                    "lat": 38.03128561970849,
+                    "lng": -78.5153712802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Juice Laundry",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 6240,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104314473857987608749\">The Juice Laundry</a>"
+                ],
+                "photo_reference": "AdCG2DOAgWBAhAWLyv_rznV7bGxBog-ZEclfV_XmFROBNbzcjm0g1Wirs9xITleD5Rb11BdfEMpSv0PqXbl4ZYV11ecBM9Wz3s4jQumVdhH8lqEhjMTsFzHAEEBzrrLZC6NeM2IOFwQiRfYmdLCgP6GwRkJ_u9y7HuJi2m_cPCGeyYJJz7Py",
+                "width": 6240
+            }
+        ],
+        "place_id": "ChIJHbmx7luGs4kRSEAn5cTrf2E",
+        "plus_code": {
+            "compound_code": "2FMP+2C Charlottesville, VA, USA",
+            "global_code": "87C32FMP+2C"
+        },
+        "rating": 3.8,
+        "reference": "ChIJHbmx7luGs4kRSEAn5cTrf2E",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 9,
+        "vicinity": "450 Whitehead Road, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.031325,
+                "lng": -78.5076361
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0327522802915,
+                    "lng": -78.50640986970849
+                },
+                "southwest": {
+                    "lat": 38.0300543197085,
+                    "lng": -78.5091078302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Oakhurst Caf\u00e9",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 685,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102814164422741348630\">Oakhurst Caf\u00e9</a>"
+                ],
+                "photo_reference": "AdCG2DNc6DwuydxO7agBsqoFT-3QKnYO9eeLPks3c133m8hb4bUSm9QJHAJwx06vdtge4lokxx4VyJx38Hq27MPqNdZsHTHGCffm-ByOaKrqZOm2dxDe1l6j2PNC0bMOMUgo6ekQJxrS4p40Y5MWZgEW4qW3kR8zmcxZghfZelu0O9WQTp4k",
+                "width": 1028
+            }
+        ],
+        "place_id": "ChIJ9y7KmUSGs4kRp4VyaH4-MjY",
+        "plus_code": {
+            "compound_code": "2FJR+GW Charlottesville, VA, USA",
+            "global_code": "87C32FJR+GW"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ9y7KmUSGs4kRp4VyaH4-MjY",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 312,
+        "vicinity": "1616 Jefferson Park Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03182109999999,
+                "lng": -78.5063222
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0333000802915,
+                    "lng": -78.5049863197085
+                },
+                "southwest": {
+                    "lat": 38.0306021197085,
+                    "lng": -78.5076842802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Chateau Lobby Bar",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1667,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117662546789465949320\">Chateau Lobby Bar</a>"
+                ],
+                "photo_reference": "AdCG2DPQTw4o2nClirfyX45skpuaMZfXsY6kkoSFPB7ETuZ4173VXTF4ZAiP89P8363iPkzNOgdP1MeYkqNnHejBlO0P6qPzEo9bqlmQBkq5BfCNIQ0RRloNkhzjkWmCUqVr2zUXwLQ5AXoheD1IawEcEm1xme_RxposVf7vsPAmjSnBMNga",
+                "width": 2500
+            }
+        ],
+        "place_id": "ChIJa1Y2vHmHs4kRDsEjByzKi2g",
+        "plus_code": {
+            "compound_code": "2FJV+PF Charlottesville, VA, USA",
+            "global_code": "87C32FJV+PF"
+        },
+        "rating": 5,
+        "reference": "ChIJa1Y2vHmHs4kRDsEjByzKi2g",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "122 Oakhurst Circle, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.035699,
+                "lng": -78.510588
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0369684802915,
+                    "lng": -78.50906971970849
+                },
+                "southwest": {
+                    "lat": 38.0342705197085,
+                    "lng": -78.5117676802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Castle",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1816,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105210808223920947089\">gillian McClennen</a>"
+                ],
+                "photo_reference": "AdCG2DNm9wtW7AUm6FBqYLaAGFh_d5Y8GcXdDEWg4Q5mg4ZLOHeRJi0aeowR9Jsb7L18iWBZs_8e_-oEWpNkRN0ZYpWExV3MedVjHOBewIKhsMhfqgxcqWpjbKEwNh4JZJBNpEW2M9d9FAWSmEidQMuS3zTPYJ-83oRerVQ23bARjg9Iv2P6",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJyU5yu1qGs4kRHrPZmJ3acSU",
+        "plus_code": {
+            "compound_code": "2FPQ+7Q Charlottesville, VA, USA",
+            "global_code": "87C32FPQ+7Q"
+        },
+        "price_level": 1,
+        "rating": 3.5,
+        "reference": "ChIJyU5yu1qGs4kRHrPZmJ3acSU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 46,
+        "vicinity": "10 Bonnycastle Drive, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0352004,
+                "lng": -78.5140979
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0365179302915,
+                    "lng": -78.5127517697085
+                },
+                "southwest": {
+                    "lat": 38.0338199697085,
+                    "lng": -78.51544973029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Chick-fil-A",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 288,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101603269422870862212\">Chick-fil-A</a>"
+                ],
+                "photo_reference": "AdCG2DPHmmCSMmSXSXCjMmWVv3hMNr1bJnQ_bMN0LEpHpIoBTDbp0jN0405g19wVwVGdo6PJWImBoHOzHslms3CsTrmdyzC-XELxuaUrm3RJJDrLjaebHUllnWP2h4X8t6MUVlomT2WpRuVghsvUspv11qaZIgVwunOcL5Qfvqi3GMGpHVic",
+                "width": 512
+            }
+        ],
+        "place_id": "ChIJSaf5PFqGs4kRF_qQ8vsh0t0",
+        "plus_code": {
+            "compound_code": "2FPP+39 Charlottesville, VA, USA",
+            "global_code": "87C32FPP+39"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJSaf5PFqGs4kRF_qQ8vsh0t0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 99,
+        "vicinity": "Alderman & McCormick Rds, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0357597,
+                "lng": -78.5064915
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0369123302915,
+                    "lng": -78.50456036970849
+                },
+                "southwest": {
+                    "lat": 38.0342143697085,
+                    "lng": -78.50725833029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Bento Sushi",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115852764873686365404\">Farzana Ahmed Siddique</a>"
+                ],
+                "photo_reference": "AdCG2DPOubtr-f7SApuAZNzys_r8_vZ7LSFmPXQKXJV8PVLlswMB-nEGUbpMbWyV40zipLoXia2oaMPvnNYuL4PUQq4SAFs3JJj0kg8gu3re3ejm7htiNgFOh1k_-r0AqJUxpisyfdZUnzPhz-tnVSquIsF3bR9dUHuaZF1967UVamIa4wz9",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJhevQl0GHs4kRDYMT4BmwdUQ",
+        "plus_code": {
+            "compound_code": "2FPV+8C Charlottesville, VA, USA",
+            "global_code": "87C32FPV+8C"
+        },
+        "rating": 3,
+        "reference": "ChIJhevQl0GHs4kRDYMT4BmwdUQ",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "180 McCormick Road, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.035995,
+                "lng": -78.50664400000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0373439802915,
+                    "lng": -78.50529501970851
+                },
+                "southwest": {
+                    "lat": 38.0346460197085,
+                    "lng": -78.50799298029152
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Subway",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 767,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118119056341783232166\">Subway</a>"
+                ],
+                "photo_reference": "AdCG2DOcteXoYyV59ta1Y4Wv_t0XlqtmNnK9k5bBgs61EktFyh2ZU1cBK3SZoOhoeF1NW-ANryb43KrH9s72zFDm-XPJXyBaDWaydRdSRFOMyhFPo9pr-7LG9GIiJCrYjIVg30yCR80VPBmSkIgPMQyl1ZdYkBwC14_Eq8NbwQdiGTBLT1Sf",
+                "width": 767
+            }
+        ],
+        "place_id": "ChIJnbUmiJyHs4kR6E0PAWSzvLI",
+        "plus_code": {
+            "compound_code": "2FPV+98 Charlottesville, VA, USA",
+            "global_code": "87C32FPV+98"
+        },
+        "price_level": 1,
+        "rating": 2.5,
+        "reference": "ChIJnbUmiJyHs4kR6E0PAWSzvLI",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 8,
+        "vicinity": "400 Emmet St. North, Pavillion, Xi Food Court, Newcomb Hall, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0268913,
+                "lng": -78.5160592
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0282844802915,
+                    "lng": -78.5146225197085
+                },
+                "southwest": {
+                    "lat": 38.0255865197085,
+                    "lng": -78.5173204802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Yuan Ho",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110406316096604642698\">Brian Stollings</a>"
+                ],
+                "photo_reference": "AdCG2DPTVgckwHZ9DugdPV1D0MjkJrIX5Kikppm23QrQs0xSHCdV6tjbnEyugkLIfTx_uHTfI4goJqQemTova1t6Rg5-BccYQt-4wEdfs9Oi5We0X4SIFsYjwF9_Ei_gx8u8Bf276YB69eNA-2IajNUKeXX__feHU4LVbnZXHebGgGV_WX0B",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJU3bfGl6Gs4kRcvr3Y1BkSoI",
+        "plus_code": {
+            "compound_code": "2FGM+QH Charlottesville, VA, USA",
+            "global_code": "87C32FGM+QH"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJU3bfGl6Gs4kRcvr3Y1BkSoI",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 224,
+        "vicinity": "117 Maury Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.02621289999999,
+                "lng": -78.5149248
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0275276802915,
+                    "lng": -78.5137062197085
+                },
+                "southwest": {
+                    "lat": 38.0248297197085,
+                    "lng": -78.5164041802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Pi-Napo Pizzeria",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111048738274454466624\">Pi-Napo Pizzeria</a>"
+                ],
+                "photo_reference": "AdCG2DMUiRzkkiUuqnqZcGCW0aKG9lr02q3jvpZ8cKvV4ebMwxV2nxCoq5wFTaDT2kBT3ACZeE6voC7HCX-0q5y-IctJwdiaDYjMF8JhX78cS3OaC3q-3TRrMDZd1gE8oK-zOHH59L4FB1wpDp862TWoExY4VD5xBwpj5iuKgCw6ThLag-YX",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJp16pLwCHs4kRmMLOraEW71g",
+        "plus_code": {
+            "compound_code": "2FGP+F2 Charlottesville, VA, USA",
+            "global_code": "87C32FGP+F2"
+        },
+        "rating": 4.9,
+        "reference": "ChIJp16pLwCHs4kRmMLOraEW71g",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 187,
+        "vicinity": "2115 Jefferson Park Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0257304,
+                "lng": -78.5154414
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0271680802915,
+                    "lng": -78.5140250697085
+                },
+                "southwest": {
+                    "lat": 38.0244701197085,
+                    "lng": -78.51672303029152
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "D\u00fcrty Nelly's Pub - Deli",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2833,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104220683110020253235\">D\u00fcrty Nelly&#39;s Pub - Deli</a>"
+                ],
+                "photo_reference": "AdCG2DPWUc4k8W48CdYBJ-qB9TAVEYVoex3WsXoiyyPB6Zwx0T74PA-bzrfJpCG2CEtr44UP7oxfeBC9bXQ4emmOLlkL9qgXWMru9wuZqRmYUmL0PvfobVodapIyoq6D_lYzrbuwKMLkhYXTIrY3XlXd0zJUj85YzjmKu05029dnsXw_jeGf",
+                "width": 4249
+            }
+        ],
+        "place_id": "ChIJV892smCGs4kR0abP6LU_oIU",
+        "plus_code": {
+            "compound_code": "2FGM+7R Charlottesville, VA, USA",
+            "global_code": "87C32FGM+7R"
+        },
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "ChIJV892smCGs4kR0abP6LU_oIU",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "bar",
+            "meal_takeaway",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 299,
+        "vicinity": "2200 Jefferson Park Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0256968,
+                "lng": -78.5157078
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0270672302915,
+                    "lng": -78.51427346970848
+                },
+                "southwest": {
+                    "lat": 38.02436926970851,
+                    "lng": -78.5169714302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Atlas Coffee",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100569247466077851220\">Marcelle M (Traveling Miles)</a>"
+                ],
+                "photo_reference": "AdCG2DOuder-hg7Cpfls9Oe_xFqnfVHNc5lhlRlalToZrbQldjb4Vgg1fdhALKVCpzdqlTSFiwLSK5Rj80iDZNi4W3rjH12XKEzMDdqBAXxPsfenWMdUjbGMtASBApCd5CdEBFxHcGLyNF4Lqaqu7VzTc08kmW0DT1blam7xU3MEuPjPB2-W",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJwe_KumCGs4kRaU_G2GmZYaA",
+        "plus_code": {
+            "compound_code": "2FGM+7P Charlottesville, VA, USA",
+            "global_code": "87C32FGM+7P"
+        },
+        "price_level": 1,
+        "rating": 4.7,
+        "reference": "ChIJwe_KumCGs4kRaU_G2GmZYaA",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 203,
+        "vicinity": "2206 Fontaine Avenue Extension, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.025707,
+                "lng": -78.51575299999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0271604302915,
+                    "lng": -78.51442396970849
+                },
+                "southwest": {
+                    "lat": 38.0244624697085,
+                    "lng": -78.5171219302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Guadalajara Mexican Restaurant",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101921765030974207144\">Ester tang</a>"
+                ],
+                "photo_reference": "AdCG2DMzShoCiTPyoTF4mm6kkk8ifSJduWVTTY3DHVrh-EFXzmK8op5bsegSo8zxJChD0ExMlhOrbx05YVR1saNUghuH8cYSFGRI2pu0-BkJS_o40hIEMqsstCCuzYXyv7RfGyLJUGGHXEi8wLX36LmiajjXS8kfG_g4b9muwJ28j9UTE1R8",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJwe_KumCGs4kRWqilvAp6QTg",
+        "plus_code": {
+            "compound_code": "2FGM+7M Charlottesville, VA, USA",
+            "global_code": "87C32FGM+7M"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJwe_KumCGs4kRWqilvAp6QTg",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 555,
+        "vicinity": "2206 Fontaine Avenue Extension, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.025399,
+                "lng": -78.5152057
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0268235302915,
+                    "lng": -78.51384996970849
+                },
+                "southwest": {
+                    "lat": 38.0241255697085,
+                    "lng": -78.51654793029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Wayside Takeout & Catering",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112862085243627956956\">Marley Peters</a>"
+                ],
+                "photo_reference": "AdCG2DO5b2FS72YR7uSjrM47a0u0e_JkDxyZTfRQJrTtjJT5sZ-gNzikXoJrBeqsrgf9tBBaFq1cIy4vDYU0l1p0yVgPAB13JWXvEfSVRyy9Z9aY-EGEXHLD9BweHtFuHZqXuDYNz9YOPfjXbVW6rpL8dAU_eVUlQPiwa_5Myt_Ae2aRFkH8",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ-4VVtWCGs4kR6vmt93x4ges",
+        "plus_code": {
+            "compound_code": "2FGM+5W Charlottesville, VA, USA",
+            "global_code": "87C32FGM+5W"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJ-4VVtWCGs4kR6vmt93x4ges",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 670,
+        "vicinity": "2203 Jefferson Park Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.025665,
+                "lng": -78.5159899
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0271406802915,
+                    "lng": -78.5146668697085
+                },
+                "southwest": {
+                    "lat": 38.0244427197085,
+                    "lng": -78.51736483029153
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mashumen",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107821421999947230692\">Faria Zahura</a>"
+                ],
+                "photo_reference": "AdCG2DMOdhovVSzf7zYJ8cILPrSD1aUswKMQNlMLgiKlgPTckqWeSD3UqC-TrUtjrpzFf2UZPJ4WlU1y1bAe4ur2g3cpG5hgDg41PvEXS4ksaGTOIvwK0MvwSUGGL3DP2DcJUVtNT-RD-zbCqXtqlnoQt32ALgyc9gChVgUO68mYvQLW2BJ-",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJx5fZk6GHs4kRF7BpeYChy3E",
+        "plus_code": {
+            "compound_code": "2FGM+7J Charlottesville, VA, USA",
+            "global_code": "87C32FGM+7J"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJx5fZk6GHs4kRF7BpeYChy3E",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 238,
+        "vicinity": "2208 Fontaine Avenue Extension, Charlottesville"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 38.0256096,
+                "lng": -78.5162562
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0270222802915,
+                    "lng": -78.5149537697085
+                },
+                "southwest": {
+                    "lat": 38.02432431970851,
+                    "lng": -78.51765173029152
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Silk Thai Restaurant",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115730137591766278784\">jonnn56</a>"
+                ],
+                "photo_reference": "AdCG2DNJFLxRAP5n0r8-7Ps8s9xOgDMDTcZZ2ImII3BuiEZkrE5bSAmqbcWPwFALV4NNQ7yXjfIK6A6bEen-9XyIJPFf3OVwrXCQJnQeLxFXOfbhwTfqIK0ChhJ7KGPrScT_7okEoX4geO31Ezav4qZLA1iM641mvtUyAM-y7ICjgynU9fwh",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJa_kLvWCGs4kRlgB6p8lsE1I",
+        "plus_code": {
+            "compound_code": "2FGM+6F Charlottesville, VA, USA",
+            "global_code": "87C32FGM+6F"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJa_kLvWCGs4kRlgB6p8lsE1I",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 388,
+        "vicinity": "2210 Fontaine Avenue Extension, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0355023,
+                "lng": -78.5009079
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0368105302915,
+                    "lng": -78.49954256970851
+                },
+                "southwest": {
+                    "lat": 38.0341125697085,
+                    "lng": -78.50224053029152
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Starbucks",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109424665397939477182\">Adam Hill</a>"
+                ],
+                "photo_reference": "AdCG2DOeOIeRYJp8yoNR8isgkz77J-xXpdAuycCDYY37h5Le3BalT_HnAz_Qs_C41S71FzunWrtAdDdh0ftQMLyBC7JSXTBOjcpXvDpHjdhvHpGo-BvOXPJokdwpExQx3wkeUErCHRyrvKriYYVN-QUSHTG0ja3YoN_ACB-GrydA_TpAgfNm",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJ_w05gEiGs4kRi1giRw1rPPU",
+        "plus_code": {
+            "compound_code": "2FPX+6J Charlottesville, VA, USA",
+            "global_code": "87C32FPX+6J"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ_w05gEiGs4kRi1giRw1rPPU",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 327,
+        "vicinity": "1601 University Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.035706,
+                "lng": -78.50092099999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03698063029151,
+                    "lng": -78.49967171970849
+                },
+                "southwest": {
+                    "lat": 38.03428266970851,
+                    "lng": -78.5023696802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Bodo's Bagels",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 5712,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104228638898869281214\">J David Hillery</a>"
+                ],
+                "photo_reference": "AdCG2DO04ydMpE20uHW1Mvdf-JyG08nOWkaufiINGRLNuD2SpvZ7f4BGLZ9mGzQmsA1MzkwZdKlIeSGsTgrOJi7BhqAu1zIywm14kRYdz6nsk86rB30k2Li56c85vO4f0bKIu4GHg3DtYOlEDK7Oxb-caBwRljyEREJGjjNd8Yt2nF0PHRGD",
+                "width": 4284
+            }
+        ],
+        "place_id": "ChIJVVXRgEiGs4kRQI0KQpfqHLc",
+        "plus_code": {
+            "compound_code": "2FPX+7J Charlottesville, VA, USA",
+            "global_code": "87C32FPX+7J"
+        },
+        "price_level": 1,
+        "rating": 4.7,
+        "reference": "ChIJVVXRgEiGs4kRQI0KQpfqHLc",
+        "scope": "GOOGLE",
+        "types": [
+            "bakery",
+            "store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 646,
+        "vicinity": "1609 University Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0353206,
+                "lng": -78.50067299999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0366150802915,
+                    "lng": -78.4994095197085
+                },
+                "southwest": {
+                    "lat": 38.0339171197085,
+                    "lng": -78.5021074802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Virginian",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111254795457461486489\">Paul Klinker</a>"
+                ],
+                "photo_reference": "AdCG2DMK7CHcSvfEuAryM_jebr6Ae-6k9kVulB5H1kVzcmBCHOkJtRXHORMrYc_C4328R205_yIQQJkQiIIp1P683X-MkuFAZHvHIgxtoicns26qSJwWQPFhksV_OThoAT0LYAtyz4oSNTYw3etYC4Hp14tQfQkaBKvg0dYF_Mmv0rO2UX-K",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJPxTDKkaGs4kR3BXRrx00SQU",
+        "plus_code": {
+            "compound_code": "2FPX+4P Charlottesville, VA, USA",
+            "global_code": "87C32FPX+4P"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJPxTDKkaGs4kR3BXRrx00SQU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 754,
+        "vicinity": "1521 University Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03528729999999,
+                "lng": -78.50058279999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0365593802915,
+                    "lng": -78.49933286970848
+                },
+                "southwest": {
+                    "lat": 38.0338614197085,
+                    "lng": -78.5020308302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Raising Cane's Chicken Fingers",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117250757729378372165\">Raising Cane&#39;s Chicken Fingers</a>"
+                ],
+                "photo_reference": "AdCG2DMBgEMpoVdShPrj5Zc_6febsFq1by9vxpc-6lrgleiqJTrLt6BPQaPg2DtJeTJ3NTaW8GnaLaFnTn2yEwOuJDRfx0FnhJvP8brn4DLWUxutkgYH7YHDOl3fxwBc4EBhtwaz031Jc6rTx5SFNuVqbaPrXAQ48TNUHAMGMBY_47CH9rzK",
+                "width": 720
+            }
+        ],
+        "place_id": "ChIJOUrH4SSHs4kR4SRDMDioMhc",
+        "plus_code": {
+            "compound_code": "2FPX+4Q Charlottesville, VA, USA",
+            "global_code": "87C32FPX+4Q"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJOUrH4SSHs4kR4SRDMDioMhc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 62,
+        "vicinity": "1519 University Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0349626,
+                "lng": -78.5003399
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0362584302915,
+                    "lng": -78.4991015697085
+                },
+                "southwest": {
+                    "lat": 38.0335604697085,
+                    "lng": -78.5017995302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Chipotle Mexican Grill",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3072,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115730137591766278784\">jonnn56</a>"
+                ],
+                "photo_reference": "AdCG2DM5pZCYiT5P24iPkVNZWzuuZoZIu2ST6x8KgjK7ljbIKE_OfEZlD-9llnhE06pVqMHxhuQFiQdZM6MMpDFG1u-kO52O-9pteFXQGD2gC0AGwgQ1pxYf4RhrJ5IK04U74XI-7V-67RJxRYbsqPyD8R0tekIpQJRs38PFCxXE2TicpKIc",
+                "width": 4080
+            }
+        ],
+        "place_id": "ChIJBcHL6OiHs4kRcEgtKEJAq-Q",
+        "plus_code": {
+            "compound_code": "2FMX+XV Charlottesville, VA, USA",
+            "global_code": "87C32FMX+XV"
+        },
+        "price_level": 1,
+        "rating": 2,
+        "reference": "ChIJBcHL6OiHs4kRcEgtKEJAq-Q",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 78,
+        "vicinity": "1511 University Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.034978,
+                "lng": -78.5003452
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0362815802915,
+                    "lng": -78.49908336970849
+                },
+                "southwest": {
+                    "lat": 38.0335836197085,
+                    "lng": -78.50178133029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Corner Juice [UVA Corner]",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109063731512897189468\">Will (Vulpecula)</a>"
+                ],
+                "photo_reference": "AdCG2DP_s-xqQgQXDrOQ3HLW7Tdewpo8BbeSqrr3q5e1CqmpweYygmS4Wd1koeuf63CP3voiWkyEjtDgliBTqp8qoNbWky9SdqJMPg5-6HWe5bbsPllBeIqkNZlXTtqh-o4-8noDVYWvpQ9SY5IS1m4b0Y6whQMptOZ7GjIYc-TKJdW7V2it",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJO1JP0UeGs4kRlTXwTxi9HrA",
+        "plus_code": {
+            "compound_code": "2FMX+XV Charlottesville, VA, USA",
+            "global_code": "87C32FMX+XV"
+        },
+        "price_level": 1,
+        "rating": 4.6,
+        "reference": "ChIJO1JP0UeGs4kRlTXwTxi9HrA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 113,
+        "vicinity": "1509 University Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03494,
+                "lng": -78.500299
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03619563029149,
+                    "lng": -78.49904026970849
+                },
+                "southwest": {
+                    "lat": 38.0334976697085,
+                    "lng": -78.50173823029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Trinity On The Corner",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 300,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111402159681614409161\">Trinity On The Corner</a>"
+                ],
+                "photo_reference": "AdCG2DOZgB3U8cT0kBb689VbD0kYrK4GjPJbVTa8mIisHmYlNu2iySFmzT2JIxElxvuyuxDE0I9adCcOvH-EdcWAMgNiGZW7Lu993rNDjAEKHkTobiyHVxIXR9hIexZKmHBldgI7dP8QXvFjAtk3gAYUr8bY480uZMhJaUZFBS-mdJCX2gVY",
+                "width": 460
+            }
+        ],
+        "place_id": "ChIJN2MR0keGs4kRMzjSGigTPoQ",
+        "plus_code": {
+            "compound_code": "2FMX+XV Charlottesville, VA, USA",
+            "global_code": "87C32FMX+XV"
+        },
+        "price_level": 2,
+        "rating": 3.8,
+        "reference": "ChIJN2MR0keGs4kRMzjSGigTPoQ",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 243,
+        "vicinity": "1505 University Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03469989999999,
+                "lng": -78.5001774
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0359873302915,
+                    "lng": -78.4989095697085
+                },
+                "southwest": {
+                    "lat": 38.0332893697085,
+                    "lng": -78.50160753029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Littlejohn's New York Delicatessen",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103113191863829209626\">AKC 96</a>"
+                ],
+                "photo_reference": "AdCG2DMKLeU6CgIP3fGKI5IaiVLb7b_28-JaaKuffDKdFXOrSBwB6bsEfyHVPzqX_EGxQelTkLMWQ-GK2sTTkGPBfYEPAlG9NH3j7EklNwLUHbc16z0zHK5hP10h8VMnJEd1q6J-0jw1vm0IMuLYzypmmSijYeOmt6rICvvEhR8GH4Uk8Igr",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ7xj5xkeGs4kRL4lYycCuHOA",
+        "plus_code": {
+            "compound_code": "2FMX+VW Charlottesville, VA, USA",
+            "global_code": "87C32FMX+VW"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJ7xj5xkeGs4kRL4lYycCuHOA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 295,
+        "vicinity": "1427 University Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03580069999999,
+                "lng": -78.500754
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03713103029149,
+                    "lng": -78.4993542697085
+                },
+                "southwest": {
+                    "lat": 38.03443306970849,
+                    "lng": -78.50205223029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Marco & Luca Dumplings",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111976641151577660186\">Soo Lee</a>"
+                ],
+                "photo_reference": "AdCG2DPVcy2bcKXYgFzQrVtqKvJqDu89IuQwcG-3hNRrq3L7c5uDjZ_va40pw4Pu9PZQgr_O3kUQd5i9UFXW0s7JWwqSdhMeL8HLT75UbVtL5FCOr7cnWZYGQKjxG973C8kopFt7Zqqy4Sy0Qgysa7-BrWIIElQimoYroD3AlAacMJM73UpA",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJd3OvfUiGs4kRxpV3wR7U4uc",
+        "plus_code": {
+            "compound_code": "2FPX+8M Charlottesville, VA, USA",
+            "global_code": "87C32FPX+8M"
+        },
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "ChIJd3OvfUiGs4kRxpV3wR7U4uc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 69,
+        "vicinity": "107 Elliewood Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0358382,
+                "lng": -78.5007262
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0371883802915,
+                    "lng": -78.49932191970849
+                },
+                "southwest": {
+                    "lat": 38.0344904197085,
+                    "lng": -78.5020198802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Take It Away Sandwich Shop, UVa Corner",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2447,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101849473778793910082\">Take It Away Sandwich Shop, UVa Corner</a>"
+                ],
+                "photo_reference": "AdCG2DO5Xf0dxiHx2qsQ_LehNt98dA1o6tA6InN0jmuWAmqJIUj00LgzAu0P4u2eHwYwWyK3N1SSQIwAPNEZAyVw8RicleMR50KwuWryMcJKht2nv3NdQhQ9LEFB2H5MwaUkh1ZTYG0ovMypxvTdEhWCEUTeSPFmUwDv7YdGv75bRGp-wWc-",
+                "width": 2447
+            }
+        ],
+        "place_id": "ChIJK94AfUiGs4kR-PCCzBI5cXY",
+        "plus_code": {
+            "compound_code": "2FPX+8P Charlottesville, VA, USA",
+            "global_code": "87C32FPX+8P"
+        },
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "ChIJK94AfUiGs4kR-PCCzBI5cXY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 203,
+        "vicinity": "115 Elliewood Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0343052,
+                "lng": -78.49978569999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03560728029149,
+                    "lng": -78.49848971970849
+                },
+                "southwest": {
+                    "lat": 38.03290931970849,
+                    "lng": -78.5011876802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Spot UVA",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103269679335774434828\">Lex Lock</a>"
+                ],
+                "photo_reference": "AdCG2DOLuY8S_5GUKBJapm5eNdsGEuvQ50zwefDSWvIroIBLQpVwOr1TVtdygakOwkmfrZQVHtcfGcFXPlwW1nYhpSQMQTeKvIW2dujyn6dHPfmRoWB5Odx4Y5ae5kIXv00jelIBMOLvbD6ofuy8qOLZzTSH5IdbAI8guPxnKl4H7st-V2lM",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJN9kbxkeGs4kRZ6A9kcmj0kI",
+        "plus_code": {
+            "compound_code": "2GM2+P3 Charlottesville, VA, USA",
+            "global_code": "87C32GM2+P3"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJN9kbxkeGs4kRZ6A9kcmj0kI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 388,
+        "vicinity": "1407 University Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03596599999999,
+                "lng": -78.5003356
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0373451302915,
+                    "lng": -78.4990638197085
+                },
+                "southwest": {
+                    "lat": 38.0346471697085,
+                    "lng": -78.5017617802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Coupes",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 318,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106104923873751762063\">Coupes</a>"
+                ],
+                "photo_reference": "AdCG2DMjsOL2qHQGDiZskM_BaZ-CVXct0nsdxebZeyindGIiQZWZSWZs6sX5c_TAH_13CSRksosbke9z120U15Ag4nspooLCqij3Bmakvzv8oQ1lzzxhGhZUSwbvLlvCw6R315XJu2cshtIcir0oEARu5AcT8PZgRXjnOhwy_5O8lG8V9Oxp",
+                "width": 446
+            }
+        ],
+        "place_id": "ChIJbTcye0iGs4kRAWsL_WfuFmQ",
+        "plus_code": {
+            "compound_code": "2FPX+9V Charlottesville, VA, USA",
+            "global_code": "87C32FPX+9V"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJbTcye0iGs4kRAWsL_WfuFmQ",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 58,
+        "vicinity": "9 Elliewood Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0344205,
+                "lng": -78.4995502
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03580223029149,
+                    "lng": -78.4981388197085
+                },
+                "southwest": {
+                    "lat": 38.0331042697085,
+                    "lng": -78.50083678029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Poke Sushi Bowl UVA",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111254795457461486489\">Paul Klinker</a>"
+                ],
+                "photo_reference": "AdCG2DMMio3MabdEv5MF2_VqckZKFVU16Gsp_b1p14b27070TVBueCq7NBZ9OiSVXUZQrGhR6WWNId3So1Ajcj-wwQXzm0xn34vGsKXGxVIABf_CHxucPiQ46pm10e3SP3j58jcLIwK_YLXqHvx5J0ozM9JJovLMKC6neDuAY_j2YTnfqVw9",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ0ZGiw0eGs4kRrrlFxg4blzQ",
+        "plus_code": {
+            "compound_code": "2GM2+Q5 Charlottesville, VA, USA",
+            "global_code": "87C32GM2+Q5"
+        },
+        "price_level": 1,
+        "rating": 4.6,
+        "reference": "ChIJ0ZGiw0eGs4kRrrlFxg4blzQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 147,
+        "vicinity": "101 14th Street Northwest, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03408149999999,
+                "lng": -78.4994249
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03546168029149,
+                    "lng": -78.4981343197085
+                },
+                "southwest": {
+                    "lat": 38.03276371970849,
+                    "lng": -78.5008322802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Boylan Heights",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 950,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103807529090823178277\">Boylan Heights</a>"
+                ],
+                "photo_reference": "AdCG2DNJeJqJDFOxrAodH4UpCIw0M-sRCRfD73whVKPUOlNjrIHRlxEKph-Hm1zkU3s9Z0EiWxtrAt8nHOPr4uPrNTL0QVppAZFmxo1LuoMhgmHg-ThzEymIA-_8xe1hkChgGIbiDy01VYJhtI7Bz1gCgSaBILJe9KW1l5BV4Kf1UJrZVxY",
+                "width": 1192
+            }
+        ],
+        "place_id": "ChIJe36PwUeGs4kRZOJkoRYRhEc",
+        "plus_code": {
+            "compound_code": "2GM2+J6 Charlottesville, VA, USA",
+            "global_code": "87C32GM2+J6"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJe36PwUeGs4kRZOJkoRYRhEc",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 541,
+        "vicinity": "102 14th Street Northwest, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03417509999999,
+                "lng": -78.49940339999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03554513029149,
+                    "lng": -78.49810601970849
+                },
+                "southwest": {
+                    "lat": 38.0328471697085,
+                    "lng": -78.50080398029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Christian's Pizza",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113310933187570157722\">John LeMasney</a>"
+                ],
+                "photo_reference": "AdCG2DOXSl3vezGk3852BUX1oJlpiIWtJoOtYqzTeBwiBc3VfMWY2oIuOD_Q-YQRwIaGq_ARf3F55V-66uWYORdsxK_VlbUf1a0iFHQ9LDN7klkJ_1LeLE21FSqSUPVR75jN-vHiMQwWwQ5T5gCcg8Zc1dEtqX8iAYlP32iJlv1ddZVHbwC1",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJbfWVwUeGs4kRvyTAGQ0_zqs",
+        "plus_code": {
+            "compound_code": "2GM2+M6 Charlottesville, VA, USA",
+            "global_code": "87C32GM2+M6"
+        },
+        "price_level": 1,
+        "rating": 3.7,
+        "reference": "ChIJbfWVwUeGs4kRvyTAGQ0_zqs",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 217,
+        "vicinity": "100 14th Street Northwest, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03451559999999,
+                "lng": -78.4995277
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03585588029149,
+                    "lng": -78.4981018197085
+                },
+                "southwest": {
+                    "lat": 38.03315791970849,
+                    "lng": -78.5007997802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "INKA GRILL Peruvian cuisine - Corner Charlottesville",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109424665397939477182\">Adam Hill</a>"
+                ],
+                "photo_reference": "AdCG2DNH2SFsTw54x6_2hQKrWRVlZQey5uLIgE2ZlP4WmrICOpygrt6u6FM4AGCfKYRIzWDW2msxv2tsOaMJDopHjZshAQl1TnjswXZGgpz-Tsw28ioHFw895LNW0quTi-KaaaZrBk1jLihOglTIG4JI_2Yl614V-UGh756Rv6Hj7LbKjHIA",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJqyzgV6mHs4kR2wscclQsSv0",
+        "plus_code": {
+            "compound_code": "2GM2+R5 Charlottesville, VA, USA",
+            "global_code": "87C32GM2+R5"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJqyzgV6mHs4kR2wscclQsSv0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 250,
+        "vicinity": "105 14th Street Northwest, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0361431,
+                "lng": -78.5002349
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0375208802915,
+                    "lng": -78.49895891970849
+                },
+                "southwest": {
+                    "lat": 38.0348229197085,
+                    "lng": -78.50165688029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Kuma Sushi Noodles & Bar",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105640098781409256653\">Kuma Sushi Noodles &amp; Bar</a>"
+                ],
+                "photo_reference": "AdCG2DOe2Xmj-LKE1i7L1zGj6FXlqHK9pJn5DuYnUnA_gdCFXtkHBa8W4q8fIZ1Gh6uF6at8NDrC8NIFg7n3H2zOTqw__VVlyKLN_JuMQ7a4DqYB50v70s-1Po-kL5ZZpHTXg_6q4elIgnBJKbXXBVTY_Gq_URZebHMMIEO7q-_IyvXe2tdG",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJP5mmZUiGs4kR-Ui1EX2jWyI",
+        "plus_code": {
+            "compound_code": "2FPX+FW Charlottesville, VA, USA",
+            "global_code": "87C32FPX+FW"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJP5mmZUiGs4kR-Ui1EX2jWyI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 336,
+        "vicinity": "12 Elliewood Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03435409999999,
+                "lng": -78.4993176
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0358266802915,
+                    "lng": -78.4979124197085
+                },
+                "southwest": {
+                    "lat": 38.0331287197085,
+                    "lng": -78.5006103802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Beijing Station",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110650949818813840467\">Beijing Station</a>"
+                ],
+                "photo_reference": "AdCG2DPvSrAC7yi5qRjY5k3utgqSGkUe8_jNtV8z4scmVN7EcUfOuDAvnQpcqeHZojFbtpoCGb_XUeWdmofMLDmzmhTzk4_Jweo-e4fO3q5aZdG4SQ0Ne-vpMFkrXXobvxlkX382I8z82SRmlmqiLhebZvQhmoXl-eCQUkhaQExHHdkuKeK_",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJm8_W7keGs4kRGtHAStikEm8",
+        "plus_code": {
+            "compound_code": "2GM2+P7 Charlottesville, VA, USA",
+            "global_code": "87C32GM2+P7"
+        },
+        "rating": 4.1,
+        "reference": "ChIJm8_W7keGs4kRGtHAStikEm8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 81,
+        "vicinity": "104 14th Street Northwest, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0340254,
+                "lng": -78.49918989999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03529758029151,
+                    "lng": -78.49789816970849
+                },
+                "southwest": {
+                    "lat": 38.03259961970851,
+                    "lng": -78.5005961302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Fig",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1623,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103581389031129811198\">Fig</a>"
+                ],
+                "photo_reference": "AdCG2DOJAGSD5RyTBoVzXDVjtchnILkfmTTQf_r7HXGR-A6OYyHPxmF-9Rax_e73Em-TQ-eyfO3q7gE3tpi3qWb3cBd0-a3Wb7VebKq_OrFgyx6hPO7KeTfHooYQzGONwZtqfrrTfNLXUOkDR9c2g0NHFoiODYleQvbquC5riPj-qOL2a0Gr",
+                "width": 1290
+            }
+        ],
+        "place_id": "ChIJpxgc60eGs4kR_BeuTcS9YNo",
+        "plus_code": {
+            "compound_code": "2GM2+J8 Charlottesville, VA, USA",
+            "global_code": "87C32GM2+J8"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJpxgc60eGs4kR_BeuTcS9YNo",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 219,
+        "vicinity": "FIG, 1331 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03403549999999,
+                "lng": -78.4991845
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0353026302915,
+                    "lng": -78.49789546970848
+                },
+                "southwest": {
+                    "lat": 38.0326046697085,
+                    "lng": -78.5005934302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Got Dumplings",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4608,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105448021423066980038\">Kevin Harrigan</a>"
+                ],
+                "photo_reference": "AdCG2DOnQP20NSmzleIU4mGNcSi6iQsH1HS-vm17nwG1zdi3ZWx4DL3tZLSTORcjPZsmbkb7CEY4hsctd_OgMRTPui4nLtOJFdtKVhCk3uhMf3vZHF9YqKcvc9N2GO_60jpbVAtv-TjoO3rCKH3OPEdxkIbn6Lh_i9kW5VWY2-WjUaJX42ZU",
+                "width": 3456
+            }
+        ],
+        "place_id": "ChIJFz_86keGs4kRP29mlAUa4wQ",
+        "plus_code": {
+            "compound_code": "2GM2+J8 Charlottesville, VA, USA",
+            "global_code": "87C32GM2+J8"
+        },
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "ChIJFz_86keGs4kRP29mlAUa4wQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 357,
+        "vicinity": "1395 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0347067,
+                "lng": -78.4994196
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0359993302915,
+                    "lng": -78.4980265697085
+                },
+                "southwest": {
+                    "lat": 38.0333013697085,
+                    "lng": -78.5007245302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Roots Natural Kitchen - Catering & App Orders",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108424900924143984905\">Roots Natural Kitchen - Catering &amp; App Orders</a>"
+                ],
+                "photo_reference": "AdCG2DMEKPgosEHjbybkfZm42J1JCoMFsVSkV1Hrs0uze7ohn4szs72wHggOXlSj5hKnV-gIWfTFN6m_yMPocgC9mpXada6NA6dz-oFKvKJyj68ZgXEkXFdTHUivXBf7ULAwMjCKfZNaDjXgUJjRApI-C9z1Q7GqJo3T-t2vW6OyahOea_pp",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJSUm_YEOHs4kRaYRjoomY2Jo",
+        "plus_code": {
+            "compound_code": "2GM2+V6 Charlottesville, VA, USA",
+            "global_code": "87C32GM2+V6"
+        },
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "ChIJSUm_YEOHs4kRaYRjoomY2Jo",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 58,
+        "vicinity": "1400 Wertland Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0339304,
+                "lng": -78.4991333
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0352201802915,
+                    "lng": -78.4978135697085
+                },
+                "southwest": {
+                    "lat": 38.0325222197085,
+                    "lng": -78.5005115302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Roots Natural Kitchen",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113310933187570157722\">John LeMasney</a>"
+                ],
+                "photo_reference": "AdCG2DN24SgsRGhCk93tES4mo_jYTQTQDfXu2gul7PgIll9J0c0GuSbgiEDjRyfmX2h0uW3VO0CZZHfurW9XzIAeKTsiNVoNdVqYX50kVuwBSWj_hbt8puD5PFAnlui__9dN5ViMS0V6oEseKIcbN7TEcX56wSHQ-etUA3FtUKW48sHfvjOb",
+                "width": 1458
+            }
+        ],
+        "place_id": "ChIJmykpjUeGs4kRUcd5U5L_gww",
+        "plus_code": {
+            "compound_code": "2GM2+H8 Charlottesville, VA, USA",
+            "global_code": "87C32GM2+H8"
+        },
+        "price_level": 1,
+        "rating": 4.7,
+        "reference": "ChIJmykpjUeGs4kRUcd5U5L_gww",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "meal_takeaway",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 680,
+        "vicinity": "1329 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0339336,
+                "lng": -78.4990364
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0352247302915,
+                    "lng": -78.4977718197085
+                },
+                "southwest": {
+                    "lat": 38.0325267697085,
+                    "lng": -78.50046978029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Asado Wing & Taco Company",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4284,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104228638898869281214\">J David Hillery</a>"
+                ],
+                "photo_reference": "AdCG2DOxOYrbij3UrTeYNUAnnA9D0VjRMTsOs93pW4VPubovZNv7DHetgGzpvUAw7zfJVPhx743fmyJ74ZP6UtBCF1OeIA7CZX5fJEbVCS3wm5fUCXUC5HuGvl47ylmp_uYoOdW8AGqFfJ0W1-E3ENF5gg6itj5oWU8vNeNfBJpcbVHhp_F9",
+                "width": 5712
+            }
+        ],
+        "place_id": "ChIJk6K-SqmHs4kR2Ksj0MMMa04",
+        "plus_code": {
+            "compound_code": "2GM2+H9 Charlottesville, VA, USA",
+            "global_code": "87C32GM2+H9"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJk6K-SqmHs4kR2Ksj0MMMa04",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 375,
+        "vicinity": "1327 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0345766,
+                "lng": -78.4992084
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0359061802915,
+                    "lng": -78.4979246197085
+                },
+                "southwest": {
+                    "lat": 38.0332082197085,
+                    "lng": -78.5006225802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Lemongrass",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1440,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108448049477775287394\">Lemongrass</a>"
+                ],
+                "photo_reference": "AdCG2DNig2t7sDJj7fLP3X6eieBmYgLmzAEqdaCNw1vmSQrodIsoXfjhQiBNvrcbVA23LKY1yKxWMWIiplZLeQK7I40cpec7kPNT2oGT9GnlMDrdku8ppS5Thei7LoY01vVCSJyFkPu72pkjPvyLTvcsn1W1rVYSAt2XLbW2C-Ssa9cu9jhQ",
+                "width": 1440
+            }
+        ],
+        "place_id": "ChIJidIo6UeGs4kR6p056dS6af0",
+        "plus_code": {
+            "compound_code": "2GM2+R8 Charlottesville, VA, USA",
+            "global_code": "87C32GM2+R8"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJidIo6UeGs4kR6p056dS6af0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 288,
+        "vicinity": "104 14th Street Northwest #6, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0367143,
+                "lng": -78.50038839999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03803898029151,
+                    "lng": -78.49895876970848
+                },
+                "southwest": {
+                    "lat": 38.03534101970851,
+                    "lng": -78.5016567302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Crozet Pizza at Buddhist Biker Bar",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115407417940173431274\">Crozet Pizza at Buddhist Biker Bar</a>"
+                ],
+                "photo_reference": "AdCG2DMhyU8QsEfkykqwNvklPMUDAqv9XPlhby4m-4LbzO1UuZXwZ-JsKUFf-J-sxZ_TORIA6QYLTWpg_l6te1J5BkVjRhS6savP5nzO2fDolPUemYjWlntEIXow70mUOlttZzNrB6nwarjNqwiPOb5oe0fJ4WXWJIXJijtlOlMw3qRxMLvC",
+                "width": 1500
+            }
+        ],
+        "place_id": "ChIJr7vBZkiGs4kRWZ3nerfMcWs",
+        "plus_code": {
+            "compound_code": "2FPX+MR Charlottesville, VA, USA",
+            "global_code": "87C32FPX+MR"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJr7vBZkiGs4kRWZ3nerfMcWs",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 218,
+        "vicinity": "20 Elliewood Avenue, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03425139999999,
+                "lng": -78.4990431
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03574863029149,
+                    "lng": -78.4976416697085
+                },
+                "southwest": {
+                    "lat": 38.03305066970849,
+                    "lng": -78.5003396302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Thyme & Co",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112188232963281490386\">Mathew Crichton</a>"
+                ],
+                "photo_reference": "AdCG2DM_8C8ooiDqzRdxyTHWsbVnmARwfOa26PE3yJ9aqUa85zBUE2s6JCkNP2yxmkIO0S6L7qsqd3DsUfmcv0LpIFxRf02AEIJOa_6M6U6MTAkacheYkGOOEhE_tgbxQT94D9pNrlCDWJC5URZHc5nHXYTzzqwDgUyerQnHOaWu1cqlK9zY",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJg6-Ssv2Hs4kRYFVR85N_htM",
+        "plus_code": {
+            "compound_code": "2GM2+P9 Charlottesville, VA, USA",
+            "global_code": "87C32GM2+P9"
+        },
+        "price_level": 1,
+        "rating": 4.7,
+        "reference": "ChIJg6-Ssv2Hs4kRYFVR85N_htM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 177,
+        "vicinity": "104 14th Street Northwest suite #2, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03529899999999,
+                "lng": -78.4992786
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03655328029149,
+                    "lng": -78.49781661970849
+                },
+                "southwest": {
+                    "lat": 38.03385531970849,
+                    "lng": -78.50051458029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mod Pod",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2400,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101553564013258096341\">Mod Pod</a>"
+                ],
+                "photo_reference": "AdCG2DMyZ3l1vbFGEdCIUyC-0vxcf2Rgn7izgXK2l5zMjDu2Qq7wmOGd5GBW5YXeRuQO_MN4BHhM9qFUOR1uXZ-4G_1FQt477va6bnYiqGJanXR5k65u8ogHenQpztLyHttugfOhxCf3rko1aVzd_qLjQnicyx3TUdAxgnc1yqXc7nVdYdhs",
+                "width": 3600
+            }
+        ],
+        "place_id": "ChIJ4wPcnl2Hs4kR-t8-NdFyy4s",
+        "plus_code": {
+            "compound_code": "2GP2+47 Charlottesville, VA, USA",
+            "global_code": "87C32GP2+47"
+        },
+        "price_level": 1,
+        "rating": 4.8,
+        "reference": "ChIJ4wPcnl2Hs4kR-t8-NdFyy4s",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 9,
+        "vicinity": "207 14th Street Northwest, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0337158,
+                "lng": -78.4986122
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0349794302915,
+                    "lng": -78.49730941970849
+                },
+                "southwest": {
+                    "lat": 38.0322814697085,
+                    "lng": -78.50000738029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mellow Mushroom Charlottesville",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1331,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113809674637491676903\">Mellow Mushroom Charlottesville</a>"
+                ],
+                "photo_reference": "AdCG2DPQGJ7lH12iUZ6N47z9JCDgKptnaQTNJoc_mWAELLbcAkqnN-TMYeChYgASWTDXZWs8W78dcb99sVWV-cJU5rk9MvHDRIM5RZFGn8HlLsgCCH39BQlG0ZgaA9iMeNQI4cEcnUby-nXfMi-rgORSrt8TknE1kqziQW6PmcRPLe1p5lQU",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJ-ZvRdziGs4kRqL3TPH5X5ZM",
+        "plus_code": {
+            "compound_code": "2GM2+FH Charlottesville, VA, USA",
+            "global_code": "87C32GM2+FH"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJ-ZvRdziGs4kRqL3TPH5X5ZM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1286,
+        "vicinity": "1321 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03380049999999,
+                "lng": -78.49854359999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0350334302915,
+                    "lng": -78.49729651970848
+                },
+                "southwest": {
+                    "lat": 38.0323354697085,
+                    "lng": -78.49999448029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Trophy Room",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1320,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100781816557132618106\">Trophy Room</a>"
+                ],
+                "photo_reference": "AdCG2DMr-9RHMQlpA4Ukq2YJ7rsWPBUTACZKoAIZu_1wCY9OfJA2GYn2TZ2I8oYtXsVhQUi1JV2ueJRzU84oKxSLHdDkY-azzNyNuvig2oowrfD_Hz4L2aitqIoB7vr3B4-VU-Ga8I8q4FSdI90cfffjJGgycIwhmlUYMk18ICgjL7Zj-MR0",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJVfdSzDaHs4kRz3D4O1NIX-g",
+        "plus_code": {
+            "compound_code": "2GM2+GH Charlottesville, VA, USA",
+            "global_code": "87C32GM2+GH"
+        },
+        "rating": 3.6,
+        "reference": "ChIJVfdSzDaHs4kRz3D4O1NIX-g",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 20,
+        "vicinity": "1309 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0338072,
+                "lng": -78.49849880000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0350147802915,
+                    "lng": -78.4970145197085
+                },
+                "southwest": {
+                    "lat": 38.0323168197085,
+                    "lng": -78.4997124802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Graduate by Hilton Charlottesville",
+        "photos": [
+            {
+                "height": 560,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106641585227669149169\">Graduate by Hilton Charlottesville</a>"
+                ],
+                "photo_reference": "AdCG2DPn2R4sZmAImyAp-faDPdJwQv8jL-EpOlRS3lmbXvjXMNdd0P51FBgWphZLyWJWqqDjBTk7_ug7e0S6fOfU5plCuBh1H-1HfLEbgZvNUpJ-LftV87ZVBcTI44oeuc3f0TGLiHtMjYJytp6kX52JreMK-DEerj_4DVZPrgAAXkuZDQoU",
+                "width": 788
+            }
+        ],
+        "place_id": "ChIJmykpjUeGs4kRvAFoR7C5B6A",
+        "plus_code": {
+            "compound_code": "2GM2+GJ Charlottesville, VA, USA",
+            "global_code": "87C32GM2+GJ"
+        },
+        "rating": 4.1,
+        "reference": "ChIJmykpjUeGs4kRvAFoR7C5B6A",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 838,
+        "vicinity": "1309 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0332771,
+                "lng": -78.4972245
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0345685802915,
+                    "lng": -78.4958876697085
+                },
+                "southwest": {
+                    "lat": 38.0318706197085,
+                    "lng": -78.4985856302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Dinsmore Inn at The University",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2183,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112794940087837883692\">Kelli Matheny</a>"
+                ],
+                "photo_reference": "AdCG2DOXpHTxg8UyUmEaWINLinyzgWPVfJachU2X92mYJ-aFmHKpFgyCY7uBlhiUc-ofeVvdRaWJmc9xUTzilphvfa6qRMoUEQAn44YKBhDjv1TXIzuMBTPYkP0PGkNsAC9A6zk_xiIhbC4qKpcPCcpekoYgR35joLtdKa-RdNeR1vNUU2k0",
+                "width": 3090
+            }
+        ],
+        "place_id": "ChIJa3racDiGs4kRrXB5rb9NiaY",
+        "plus_code": {
+            "compound_code": "2GM3+84 Charlottesville, VA, USA",
+            "global_code": "87C32GM3+84"
+        },
+        "rating": 4.6,
+        "reference": "ChIJa3racDiGs4kRrXB5rb9NiaY",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 90,
+        "vicinity": "1211 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03333259999999,
+                "lng": -78.49719259999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03459713029149,
+                    "lng": -78.49587776970849
+                },
+                "southwest": {
+                    "lat": 38.0318991697085,
+                    "lng": -78.4985757302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Farm Bell Kitchen",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2266,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108466056243416394782\">Farm Bell Kitchen</a>"
+                ],
+                "photo_reference": "AdCG2DNqoldgRirUcTEFgMc6CjPvk6f58ZIDFpXxTLfy4FSN-2s0BvI-SQnlvW8JJ7aK9Oe9ozMpPwSs-hDGqb08p2o1HMR5_wADRrr-YTZtJHERCkUQH6yviLSOhWYXUDHQbzG9FPxv4J-xtAbKF7ysU7W6aKKd2uBXsFDQ3GvB-_vpdjuP",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJPcsebjiGs4kR70ouDzVyW8I",
+        "plus_code": {
+            "compound_code": "2GM3+84 Charlottesville, VA, USA",
+            "global_code": "87C32GM3+84"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJPcsebjiGs4kR70ouDzVyW8I",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 729,
+        "vicinity": "1209 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03325700000001,
+                "lng": -78.496847
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0346704802915,
+                    "lng": -78.4955865697085
+                },
+                "southwest": {
+                    "lat": 38.0319725197085,
+                    "lng": -78.4982845302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Bistro - Eat. Drink. Connect.\u00ae",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3216,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109093792993173923782\">The Bistro - Eat. Drink. Connect.\u00ae</a>"
+                ],
+                "photo_reference": "AdCG2DO2XkkUO1r3Ku5-IglOHKLS85DKU06C2USyavxarI6cfY_CVxS56KqshkMNe8hfjOYvcev9AGIAhxP9RXSAkUQDQrQr3SFc6cpmI0kg-EbsrLJ55_6E9rCZ15-2G1tfnp7xO4dIVcB8IJitnZCOU7esqk1dkO1Sx6HcjuGzlcM9Y5z_",
+                "width": 4598
+            }
+        ],
+        "place_id": "ChIJpaYzaTiGs4kRQtUDZOugsr8",
+        "plus_code": {
+            "compound_code": "2GM3+87 Charlottesville, VA, USA",
+            "global_code": "87C32GM3+87"
+        },
+        "rating": 4.7,
+        "reference": "ChIJpaYzaTiGs4kRQtUDZOugsr8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "1201 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0429561,
+                "lng": -78.5118188
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0443292302915,
+                    "lng": -78.51051596970849
+                },
+                "southwest": {
+                    "lat": 38.0416312697085,
+                    "lng": -78.5132139302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Moe's Original BBQ",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3264,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117716377457146798051\">Betty Johnson</a>"
+                ],
+                "photo_reference": "AdCG2DNHabjv0oV_3R1bb0krzzmmC8zHtUZJGUTC2sfOGUe1LhGAYpRYWszEej9QOFTnvgPXyF3wW_aoohuLzA8adOjut2POxs7s7CgfyoSuwfcWfu_baPClQHcdW5KGVEhtZGEuFgigrmr3Wh983LdulpTHEIF-i9nmnVcML7PRu3wjiv-U",
+                "width": 2448
+            }
+        ],
+        "place_id": "ChIJq-38SVKGs4kR92em5S8_cZM",
+        "plus_code": {
+            "compound_code": "2FVQ+57 Charlottesville, VA, USA",
+            "global_code": "87C32FVQ+57"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJq-38SVKGs4kR92em5S8_cZM",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 878,
+        "vicinity": "2119 Ivy Road, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0326055,
+                "lng": -78.49633349999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0339239302915,
+                    "lng": -78.49485946970849
+                },
+                "southwest": {
+                    "lat": 38.0312259697085,
+                    "lng": -78.49755743029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Ridley",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109248798261567622288\">Sandra Mathey</a>"
+                ],
+                "photo_reference": "AdCG2DMUe1cgM6xctar33UO1fkwXI5b5VXiUmEHJHJ1bmqLxCtfnOGTvLm5FAcI3HUnrnm0-VYIY4LfQDJB3hF-SdVlBzj5H_EWh_D4Wr3WwR6QdgqWKjKSy-3yZAf7a2YCxWWaziYecPIDFiGNLY-eOpKeXo0L1eyIK1NO2s794sNTiYmK5",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJSRNmXjiGs4kRp_3J_mbd5A4",
+        "plus_code": {
+            "compound_code": "2GM3+2F Charlottesville, VA, USA",
+            "global_code": "87C32GM3+2F"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJSRNmXjiGs4kRp_3J_mbd5A4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 386,
+        "vicinity": "1106 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.04405,
+                "lng": -78.5130003
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0453212302915,
+                    "lng": -78.5117278697085
+                },
+                "southwest": {
+                    "lat": 38.0426232697085,
+                    "lng": -78.5144258302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "El Tio Restaurant y Tienda",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1512,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108359417833780095612\">El Tio Restaurant y Tienda</a>"
+                ],
+                "photo_reference": "AdCG2DN5xOo4lvkVBLDBaBRl-tqlhli0aooOqRlpxa1opPNg9Sl5tN2B75Me3lDlL9PfO13Dqpvu-g0oJ_sBWf3vIcq5LMv1Lk9FcQt64wNA2Rh03wug4zjkBFUJLRxtEg05fuwKuKlyCOxVe776q_EfY9sETSFRaUzKxd63PY1gCDmpb_Q_",
+                "width": 2016
+            }
+        ],
+        "place_id": "ChIJDazuD_CHs4kROo8pIkoc2K4",
+        "plus_code": {
+            "compound_code": "2FVP+JQ Charlottesville, VA, USA",
+            "global_code": "87C32FVP+JQ"
+        },
+        "price_level": 1,
+        "rating": 4.8,
+        "reference": "ChIJDazuD_CHs4kROo8pIkoc2K4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 145,
+        "vicinity": "2171 Ivy Road Suite 13, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0290769,
+                "lng": -78.49544689999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0304297802915,
+                    "lng": -78.49401211970849
+                },
+                "southwest": {
+                    "lat": 38.0277318197085,
+                    "lng": -78.49671008029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Korner Restaurant & Catering",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112455884924666651411\">Jeannie Boatwright</a>"
+                ],
+                "photo_reference": "AdCG2DMZZp5AAMYbfeCCdFxJyaYDYX-LKRSFa116Rf_SRfQy7vv3lPBQlmvlLgbICqObJ_kkabf5u9h3J2ZzjJDfklaImvrYSjAnMT8GIWAz3XKBYhoX9qDnyatDZ2qBeeIPn9E76W0AND8toBju1hilacCFOTvWym2HSW5uZzO1BJ9TaQs-",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJ4x42Lz-Gs4kRyQYRiaKw_Jc",
+        "plus_code": {
+            "compound_code": "2GH3+JR Charlottesville, VA, USA",
+            "global_code": "87C32GH3+JR"
+        },
+        "price_level": 1,
+        "rating": 4.6,
+        "reference": "ChIJ4x42Lz-Gs4kRyQYRiaKw_Jc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 468,
+        "vicinity": "415 Roosevelt Brown Boulevard, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.032887,
+                "lng": -78.4950842
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0341955802915,
+                    "lng": -78.4937124697085
+                },
+                "southwest": {
+                    "lat": 38.0314976197085,
+                    "lng": -78.4964104302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Q NOODLES",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106137491323691586313\">holly pan</a>"
+                ],
+                "photo_reference": "AdCG2DOcOWwaQwO_dUPiPwfvKZkAoCKWUhxM0dur-ibK1pdam8E1bIUE4dcUOB7XfjBrUbKpVMvgnC0jU1nQw5WibWO_WU59fnW_pxJ9cci5Z75RVlHvmoUAUDAIjHNO9uEXBQoStn4I47dS8iijS22S_mGbMNyEP45fc67y5XM-soKUhHS8",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJuY98sAuHs4kRhIQatYJwHc8",
+        "plus_code": {
+            "compound_code": "2GM3+5X Charlottesville, VA, USA",
+            "global_code": "87C32GM3+5X"
+        },
+        "price_level": 2,
+        "rating": 4.7,
+        "reference": "ChIJuY98sAuHs4kRhIQatYJwHc8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 63,
+        "vicinity": "1001 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.044165,
+                "lng": -78.513168
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.04541418029149,
+                    "lng": -78.51188761970849
+                },
+                "southwest": {
+                    "lat": 38.0427162197085,
+                    "lng": -78.51458558029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Taiwan Garden Restaurant",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2296,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115730137591766278784\">jonnn56</a>"
+                ],
+                "photo_reference": "AdCG2DOWVl6jwklP_-lJCDJltpm_dd155x-eiM1yXWGmuGtqxDFTah8vy39K4hTBJMOHE6DvC3GRX1pdlENExhe9HxR2K01jrF99sfcepySSVkqn0fQgdtXdn5TaL4u5nQ0MoAcbJVmInP5f6Ra95iIAontiGRvV2q7YmT3tHEiIZsJL63So",
+                "width": 4080
+            }
+        ],
+        "place_id": "ChIJP5oKSKKHs4kRDs_-7UfFqVI",
+        "plus_code": {
+            "compound_code": "2FVP+MP Charlottesville, VA, USA",
+            "global_code": "87C32FVP+MP"
+        },
+        "price_level": 1,
+        "rating": 3.8,
+        "reference": "ChIJP5oKSKKHs4kRDs_-7UfFqVI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 30,
+        "vicinity": "2171 Ivy Road # 9, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0329519,
+                "lng": -78.49492219999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03420848029151,
+                    "lng": -78.49359361970849
+                },
+                "southwest": {
+                    "lat": 38.03151051970851,
+                    "lng": -78.49629158029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Kung Fu Tea",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2296,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115730137591766278784\">jonnn56</a>"
+                ],
+                "photo_reference": "AdCG2DO8rZJ6Yk9cyN-h6_LIk44dUaqHU3B3S5MS0utZCRh7ljsDVYfT4Xvzn7fYHqR6NS70kajSAHG0NYZCvPRgVs8IvCTKhQwJ9YzZ6-K1LJaL_xecPU58TkEopIgEOIGgnSfJqLJW6yYG_CmqJwbI71RoSXaBpVqilcX1-eui0HQjJ-B5",
+                "width": 4080
+            }
+        ],
+        "place_id": "ChIJzVanrTmGs4kRH5XNttaUeIs",
+        "plus_code": {
+            "compound_code": "2GM4+52 Charlottesville, VA, USA",
+            "global_code": "87C32GM4+52"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJzVanrTmGs4kRH5XNttaUeIs",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 343,
+        "vicinity": "1001 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0328843,
+                "lng": -78.4949032
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03417333029149,
+                    "lng": -78.49357871970848
+                },
+                "southwest": {
+                    "lat": 38.0314753697085,
+                    "lng": -78.4962766802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Bibibowls",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 896,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109992422813422659531\">Bibibowls</a>"
+                ],
+                "photo_reference": "AdCG2DMclpjbAQp9dmYyqpDulqmIwJgmth77bNQx5l1U_NChLH5WjH6Y4cAnjrxCPfKNeh1lK71G1JzxWUT8Zrlih99BGxmVd-gs6dAyVJCK4osHxlRgzcjPmxjzsGAfU0As1lYzznx_u1tdvdmMv9zZpQoknGAFQNSbMpvxSyTkcwmp2bFq",
+                "width": 890
+            }
+        ],
+        "place_id": "ChIJZS340keHs4kRN27daWxahsA",
+        "plus_code": {
+            "compound_code": "2GM4+52 Charlottesville, VA, USA",
+            "global_code": "87C32GM4+52"
+        },
+        "price_level": 2,
+        "rating": 5,
+        "reference": "ChIJZS340keHs4kRN27daWxahsA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "1001 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.0328843,
+                "lng": -78.4949032
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03416378029149,
+                    "lng": -78.49351006970849
+                },
+                "southwest": {
+                    "lat": 38.0314658197085,
+                    "lng": -78.4962080302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Starbucks",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 900,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103497007441423862224\">Starbucks</a>"
+                ],
+                "photo_reference": "AdCG2DOsVuFtOdTIKibYvon0Kr_ZQ9o18r-7cU83u2Gc_oKJ4M5Bthf7WtHDjaQ_2wi-f8pkaPy3JfftzFru_zrDrkAm0Z07z_Axn4rdmYZbmeUt6_QGYiFNW8EZ7A948EcxJ4pCfMjhCSz8uiDN-UqUvLaa85807KrMAiOVuHjnWP98CXHV",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJBVZqAcSHs4kR0XL9CK3kmdY",
+        "plus_code": {
+            "compound_code": "2GM4+52 Charlottesville, VA, USA",
+            "global_code": "87C32GM4+52"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJBVZqAcSHs4kR0XL9CK3kmdY",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 34,
+        "vicinity": "1001 West Main Street, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.03327809999999,
+                "lng": -78.49492839999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.03463928029149,
+                    "lng": -78.4936536697085
+                },
+                "southwest": {
+                    "lat": 38.03194131970849,
+                    "lng": -78.4963516302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Clubhouse Cafe",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3360,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108432258316114970457\">Clubhouse Cafe</a>"
+                ],
+                "photo_reference": "AdCG2DOPyksu_4Dv5dTIi5J8m0PlEx2wq_iGJWJi4I4I5PL9Jl44jTTZPE0JJPQ1KWHTWxZn8A6MRU9Z0K94VDnl81YJOjpDZLgZrUZGAR6fQFhbu9jcefxzjsaaS0MriP4htzVsu9P1T-z5xIJnuSv7W0bOth6Xe6oSgue_AEXN3CFcAjA",
+                "width": 3360
+            }
+        ],
+        "place_id": "ChIJ-4TjcZSHs4kROZsgiFybJSQ",
+        "plus_code": {
+            "compound_code": "2GM4+82 Charlottesville, VA, USA",
+            "global_code": "87C32GM4+82"
+        },
+        "price_level": 2,
+        "rating": 5,
+        "reference": "ChIJ-4TjcZSHs4kROZsgiFybJSQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "118 10 1/2 Street Northwest, Charlottesville"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.044283,
+                "lng": -78.5135517
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.0455537302915,
+                    "lng": -78.5122492197085
+                },
+                "southwest": {
+                    "lat": 38.0428557697085,
+                    "lng": -78.5149471802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Papa Johns Pizza",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110968814951559930981\">joseph george</a>"
+                ],
+                "photo_reference": "AdCG2DPCKeeMEfYKC-lavLBtDwOCmj2mrAIItG4PRDEov00kbgFdr2kqBxDtop48uvf_-uWfIeMrGKaIlgKWaePy2xIsrnLFeSHmUKneLm-3fD2KywTXRIl1d1N0uiB93O85jZmOjGlIPpz-UHPY77UnTkTZWSUp2do1JJsPJ9oh4cqObuSg",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJRTI8o1OGs4kR7RsGjWB3v60",
+        "plus_code": {
+            "compound_code": "2FVP+PH Charlottesville, VA, USA",
+            "global_code": "87C32FVP+PH"
+        },
+        "price_level": 1,
+        "rating": 3.4,
+        "reference": "ChIJRTI8o1OGs4kR7RsGjWB3v60",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 194,
+        "vicinity": "2171 Ivy Road Suite 1, Charlottesville"
+    }
+]
