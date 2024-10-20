@@ -13,7 +13,6 @@ def handle_request():
     try:
         data = request.get_json()
         if not data or 'user_input' not in data:
-            print(f"error: invalid input")
             return jsonify({"error": "Invalid input. Please provide 'user_input'."}), 400
         user_input = data['user_input']
 
@@ -31,14 +30,17 @@ def handle_request():
         }
 
         if DEBUG:
-            print(f"Sending output: {output}")
+            print(f"Output: {output}")
 
         return jsonify(output), 200
-    except Exception as e:        
-        if DEBUG:
-            print(f"Error in handle_request: {e}")
 
-        return jsonify({"error": str(e)}), 500
+    except Exception as e:
+        output = {"error": str(e)}
+        
+        if DEBUG:
+            print(f"Error: {output}")
+
+        return jsonify(output), 500
 
 if __name__ == '__main__':
     app.run(debug=True)
