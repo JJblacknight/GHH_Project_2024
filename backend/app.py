@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from controllers.emotion_controller import get_emotion
+from controllers.emotion_controller import get_emotion, get_feedback
 from controllers.restaurant_controller import get_restaurants
 
 DEBUG = True
@@ -20,11 +20,11 @@ def handle_request():
             print(f"Received user input: {user_input}")
 
         emotion = get_emotion(user_input)
+        feedback = get_feedback(user_input)
         restaurants = get_restaurants(emotion)
         output = {
-            "user_input": user_input,
-            "emotion": emotion,
-            "restaurants": restaurants
+            "restaurants": restaurants,
+            "feedback": feedback,
         }
 
         if DEBUG:

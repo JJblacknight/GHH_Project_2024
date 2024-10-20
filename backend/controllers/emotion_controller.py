@@ -23,8 +23,7 @@ from dotenv import load_dotenv
 load_dotenv()       
 client = OpenAI()
 
-def get_emotion(user_input): 
-    content = f"Here is how I'm feeling: {user_input}. Which of these emotions ({EMOTIONS}) am I feeling? Choose the emotion that best describes how I'm feeling. Just give me the name of the emotion, no fluff."
+def ask_chatgpt(content):
     stream = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": content}],
@@ -37,6 +36,16 @@ def get_emotion(user_input):
             output += chunk.choices[0].delta.content
 
     return output
+
+def get_emotion(user_input): 
+    content = f"Here is how I'm feeling: {user_input}. Which of these emotions ({EMOTIONS}) am I feeling? Choose the emotion that best describes how I'm feeling. Just give me the name of the emotion, no fluff."
+    emotion = ask_chatgpt(content)
+    return emotion
+
+def get_feedback(user_input):
+    content = f"Respond to how I'm feeling in a sentence or 2. Also says something like here's a restaurant I think you'll like, but you don't know what it's called. Here's my input: {user_input}. "
+    feedback = ask_chatgpt(content)
+    return feedback
 
 def __main__():
     print(get_emotion("I think I failed my exam!"))
