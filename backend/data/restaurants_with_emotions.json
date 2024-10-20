@@ -22,7 +22,8 @@
         "emotions": [
             "Healthy",
             "Adventurous",
-            "Social"
+            "Social",
+            "Bored"
         ]
     },
     {
@@ -36,7 +37,8 @@
             "Excited",
             "Hungry",
             "Affordable",
-            "Sad"
+            "Sad",
+            "Bored"
         ]
     },
     {
@@ -49,7 +51,9 @@
         "emotions": [
             "Romantic",
             "Social",
-            "Sad"
+            "Sad",
+            "Stressed",
+            "Bored"
         ]
     },
     {
@@ -73,7 +77,6 @@
         ],
         "emotions": [
             "Hungry",
-            "Affordable",
             "Stressed"
         ]
     },
@@ -87,7 +90,8 @@
         "emotions": [
             "Adventurous",
             "Healthy",
-            "Excited"
+            "Excited",
+            "Bored"
         ]
     },
     {
@@ -165,7 +169,8 @@
         "emotions": [
             "Adventurous",
             "Hungry",
-            "Social"
+            "Social",
+            "Bored"
         ]
     },
     {
@@ -269,7 +274,8 @@
         "emotions": [
             "Hungry",
             "Healthy",
-            "Affordable"
+            "Affordable",
+            "Bored"
         ]
     },
     {
@@ -295,7 +301,10 @@
         "emotions": [
             "Social",
             "Hungry",
-            "Excited"
+            "Excited",
+            "Stressed",
+            "Sad",
+            "Bored"
         ]
     },
     {
