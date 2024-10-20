@@ -64,17 +64,6 @@ export default function Home() {
 
   return (
     <div className="min-h-screen flex flex-col justify-between p-8 pb-20 gap-4 sm:p-16">
-      
-      {/* Image near the top */}
-      <div className="flex justify-center">
-        <Image
-          src="/download.jpg" // Update this with your actual image path
-          alt="Your Image Description"
-          width={400} // Adjust the size to fit your design
-          height={200}
-          className="object-cover" // Keeps image aspect ratio
-        />
-      </div>
 
       {/* Form at the bottom */}
       <main className="flex flex-col gap-4 items-center sm:items-start w-full mt-auto">
