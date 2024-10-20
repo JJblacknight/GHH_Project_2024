@@ -34,30 +34,31 @@ export default function ResultPage() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen">
+      <h1 className="text-2xl mb-4"> Because you were feeling {message}</h1>
 
       <div className="flex flex-col gap-8 p-8">
         {/* Render the fetched restaurant */}
+        <h1 className="text-2xl font-bold">Recommended Restaurant:</h1>
         {feedback && (
-          <div id="feedback" className="mb-8 w-full flex justify-start"> {/* Decreased margin-bottom */}
+          <div id="feedback" className="mb-16 w-full flex justify-start"> {/* Decreased margin-bottom */}
             <SimpleCard content={feedback} type="text" /> {/* Adjust width */}
           </div>
         )}
-        <h1 className="text-2xl font-bold">Recommended Restaurant:</h1>
         {restaurant ? (
           <div className="flex flex-col gap-8 p-8">
             {/* Card for the restaurant name */}
-            <div id="restaurant" className="mb-8 w-full flex justify-start"> {/* Decreased margin-bottom */}
+            <div id="restaurant" className="mb-16 w-full flex justify-start"> {/* Decreased margin-bottom */}
               <SimpleCard content={restaurant.name} type="text" /> {/* Adjust width */}
             </div>
 
             {/* Card for the restaurant image */}
-            <div id="picture" className="mb-8 w-full"> {/* Decreased margin-bottom */}
+            <div id="picture" className="mb-16 w-full"> {/* Decreased margin-bottom */}
               <SimpleCard content={restaurant.photos[0]} type="image" /> {/* Adjust width */}
             </div>
 
             {/* Card for the restaurant address */}
-            <div id="address" className="mb-8 w-full flex justify-start"> {/* Decreased margin-bottom */}
-              <SimpleCard content={restaurant.address} type="text" /> {/* Adjust width */}
+            <div id="address" className="mb-16 w-full flex justify-start"> {/* Decreased margin-bottom */}
+              <SimpleCard content={`Address: ${restaurant.address}`} type="text" /> {/* Adjust width */}
             </div>
           </div>
         ) : (
