@@ -9,7 +9,6 @@ import Image from "next/image"; // Import Image from Next.js
 
 export default function Home() {
   const [message, setMessage] = useState(""); // State to store the textarea input
-  const [feeling, setFeeling] = useState(''); // User input state
   const [error, setError] = useState<string | null>(null);   // Error handling state
   const router = useRouter(); // Next.js router hook from next/navigation
 
@@ -26,9 +25,13 @@ export default function Home() {
         },
         body: JSON.stringify({ user_input: feeling }),
       });
-      console.log('API Response Status:', response.status); // Log the response status
+
+      console.log('Response Status:', response.status); // Log the response status
+      console.log('Response Headers:', response.headers); // Log the response headers
 
       if (!response.ok) {
+        const responseBody = await response.text();
+        console.log('Response Body:', responseBody); // Log the response body
         throw new Error('Failed to fetch recommendations');
       }
 
@@ -47,12 +50,12 @@ export default function Home() {
   // Handle form submission for the feeling input
   const handleButtonClick = async () => {
     console.log("Handling send message");
-    console.log('Feeling:', feeling);
+    console.log('Message:', message);
     
-    if (feeling) {
-      await submitFeeling(feeling); // Submit the feeling
+    if (message) {
+      await submitFeeling(message); // Submit the message as the feeling
     } else {
-      setError('Please enter a feeling');
+      setError('Please enter a message');
     }
   };
 
@@ -90,22 +93,10 @@ export default function Home() {
             <Button onClick={handleButtonClick} className="mt-4">
               Send message
             </Button>
+            {error && <p className="text-red-500 mt-4">{error}</p>} {/* Display error if present */}
           </div>
         </div>
       </main>
-      
-      {/* New form for Flask API */}
-      <div className="flex flex-col items-center justify-center h-screen p-4">
-        <input
-          type="text"
-          placeholder="How are you feeling?"
-          value={feeling}
-          onChange={(e) => setFeeling(e.target.value)}
-          className="p-2 w-full mb-4 border border-gray-300 rounded"
-        />
-        {/* Removed the submit button */}
-        {error && <p className="text-red-500 mt-4">{error}</p>} {/* Display error if present */}
-      </div>
     </div>
   );
 }
