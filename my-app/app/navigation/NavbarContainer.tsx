@@ -5,8 +5,15 @@ type Props = {};
 
 export default function NavbarContainer({}: Props) {
   return (
-    <div className="w-full h-full flex justify-center items-center sticky top-0 z-50">
-      <Navbar />
-    </div>
+    <>
+      <div className="fixed top-0 left-1/2 transform -translate-x-1/2 z-50">
+        <div className="flex items-center justify-center">
+          <Navbar />
+        </div>
+      </div>
+      <div className="pt-16"> {/* Adjust the padding as needed */}
+        {/* Content goes here */}
+      </div>
+    </>
   );
 }
