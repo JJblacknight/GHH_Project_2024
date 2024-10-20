@@ -9,7 +9,46 @@ import Image from "next/image"; // Import Image from Next.js
 
 export default function Home() {
   const [message, setMessage] = useState(""); // State to store the textarea input
+  const [feeling, setFeeling] = useState(''); // User input state
+  const [error, setError] = useState<string | null>(null);   // Error handling state
   const router = useRouter(); // Next.js router hook from next/navigation
+
+  // Function to call Flask API
+  async function submitFeeling(feeling: string) {
+    try {
+      const response = await fetch('http://127.0.0.1:5000/api/emotion', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({user_input: feeling}),
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to fetch recommendations');
+      }
+
+      const data = await response.json();
+      console.log('Recommended Restaurants:', data.restaurants);
+
+      // Pass data to the results page
+      router.push(`/results?restaurants=${encodeURIComponent(JSON.stringify(data.restaurants))}`);
+
+    } catch (error) {
+      console.error('Error fetching recommendations:', error);
+      setError('Failed to get recommendations. Please try again.');
+    }
+  }
+
+  // Handle form submission
+  const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
+    if (feeling) {
+      await submitFeeling(feeling);
+    } else {
+      setError('Please enter a feeling');
+    }
+  };
 
   // Handle button click to navigate to results page
   const handleButtonClick = () => {
@@ -50,13 +89,28 @@ export default function Home() {
               onChange={(e) => setMessage(e.target.value)} // Update state when typing
               className="w-full h-32 p-4 text-lg border border-gray-300 rounded-md"
             />
-            {/* Use Button component with onClick to trigger navigation */}
             <Button onClick={handleButtonClick} className="mt-4">
               Send message
             </Button>
           </div>
         </div>
       </main>
+
+      {/* New form for Flask API */}
+      <div className="flex flex-col items-center justify-center h-screen p-4">
+        <form onSubmit={handleSubmit} className="w-full max-w-sm">
+          <input
+            type="text"
+            placeholder="How are you feeling?"
+            value={feeling}
+            onChange={(e) => setFeeling(e.target.value)}
+            className="p-2 w-full mb-4 border border-gray-300 rounded"
+          />
+          <Button type="submit">Submit</Button>
+
+          {error && <p className="text-red-500 mt-4">{error}</p>} {/* Display error if present */}
+        </form>
+      </div>
     </div>
   );
 }
