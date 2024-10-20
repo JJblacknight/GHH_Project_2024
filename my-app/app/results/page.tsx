@@ -6,7 +6,6 @@ import SimpleCard from "@/components/SimpleCard"; // Adjust the path based on yo
 
 export default function ResultPage() {
   const searchParams = useSearchParams(); // Get the search params from URL
-  const message = searchParams.get("message"); // Get the "message" query param
 
   // State for holding the first restaurant and feedback
   interface Restaurant {
@@ -38,28 +37,26 @@ export default function ResultPage() {
       <div className="flex flex-col gap-8 p-8">
         {/* Render the fetched restaurant */}
         {feedback && (
-          <div id="feedback" className="mb-16 w-full flex justify-start"> {/* Decreased margin-bottom */}
-            <SimpleCard content={feedback} type="text" /> {/* Adjust width */}
+          <div id="feedback" className="mb-9 w-full flex justify-center"> {/* Centered the card */}
+            <SimpleCard content={feedback} type="text" background="light-orange" className="w-full" /> {/* Adjust width */}
           </div>
         )}
-
-        <h1 className="text-2xl font-bold">Recommended Restaurant:</h1>
         
         {restaurant ? (
           <div className="flex flex-col gap-8 p-8">
             {/* Card for the restaurant name */}
-            <div id="restaurant" className="mb-16 w-full flex justify-start"> {/* Decreased margin-bottom */}
-              <SimpleCard content={restaurant.name} type="text" /> {/* Adjust width */}
+            <div id="restaurant" className="mb-9 w-full flex justify-start"> {/* Decreased margin-bottom */}
+              <SimpleCard content={`Recommended Restaurant:\n ${restaurant.name}`} type="text" background="light-orange" className="w-full mr-auto" /> {/* Adjust width */}
             </div>
 
             {/* Card for the restaurant image */}
-            <div id="picture" className="mb-16 w-full"> {/* Decreased margin-bottom */}
-              <SimpleCard content={restaurant.photos[0]} type="image" /> {/* Adjust width */}
+            <div id="picture" className="mb-9 w-full"> {/* Decreased margin-bottom */}
+              <SimpleCard content={restaurant.photos[0]} type="image" background="transparent" className="w-full ml-auto" /> {/* Adjust width */}
             </div>
 
             {/* Card for the restaurant address */}
-            <div id="address" className="mb-16 w-full flex justify-start"> {/* Decreased margin-bottom */}
-              <SimpleCard content={`Address: ${restaurant.address}`} type="text" /> {/* Adjust width */}
+            <div id="address" className="mb-9 w-full flex justify-start"> {/* Decreased margin-bottom */}
+              <SimpleCard content={`Address: ${restaurant.address}`} type="text" background="light-orange" className="w-full mr-auto"/> {/* Adjust width */}
             </div>
           </div>
         ) : (
