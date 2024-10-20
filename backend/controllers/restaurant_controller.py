@@ -1,4 +1,5 @@
 import json
+import random
 
 RESTAURANT_FILE = "backend/data/restaurants_with_emotions.json"
 MAX_RESTAURANTS = 1
@@ -11,6 +12,8 @@ def get_restaurants(emotion):
     for restaurant in data:
         if emotion in restaurant.get("emotions"):
             restaurants.append(restaurant)
+
+    random.shuffle(restaurants)
 
     return restaurants[:MAX_RESTAURANTS]
 
