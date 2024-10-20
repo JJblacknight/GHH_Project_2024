@@ -13,16 +13,20 @@ export default function Home() {
   const [error, setError] = useState<string | null>(null);   // Error handling state
   const router = useRouter(); // Next.js router hook from next/navigation
 
+  console.log('IM READYYY'); 
+
   // Function to call Flask API
   async function submitFeeling(feeling: string) {
     try {
+      console.log('Submitting feeling:', feeling); // Log the submitted feeling
       const response = await fetch('http://127.0.0.1:5000/api/emotion', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({user_input: feeling}),
+        body: JSON.stringify({ user_input: feeling }),
       });
+      console.log('API Response Status:', response.status); // Log the response status
 
       if (!response.ok) {
         throw new Error('Failed to fetch recommendations');
@@ -40,21 +44,15 @@ export default function Home() {
     }
   }
 
-  // Handle form submission
-  const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
-    event.preventDefault();
+  // Handle form submission for the feeling input
+  const handleButtonClick = async () => {
+    console.log("Handling send message");
+    console.log('Feeling:', feeling);
+    
     if (feeling) {
-      await submitFeeling(feeling);
+      await submitFeeling(feeling); // Submit the feeling
     } else {
       setError('Please enter a feeling');
-    }
-  };
-
-  // Handle button click to navigate to results page
-  const handleButtonClick = () => {
-    // Check if there is any message typed before navigating
-    if (message) {
-      router.push(`/results?message=${encodeURIComponent(message)}`); // Navigate to results page with the message as a query parameter
     }
   };
 
@@ -95,21 +93,18 @@ export default function Home() {
           </div>
         </div>
       </main>
-
+      
       {/* New form for Flask API */}
       <div className="flex flex-col items-center justify-center h-screen p-4">
-        <form onSubmit={handleSubmit} className="w-full max-w-sm">
-          <input
-            type="text"
-            placeholder="How are you feeling?"
-            value={feeling}
-            onChange={(e) => setFeeling(e.target.value)}
-            className="p-2 w-full mb-4 border border-gray-300 rounded"
-          />
-          <Button type="submit">Submit</Button>
-
-          {error && <p className="text-red-500 mt-4">{error}</p>} {/* Display error if present */}
-        </form>
+        <input
+          type="text"
+          placeholder="How are you feeling?"
+          value={feeling}
+          onChange={(e) => setFeeling(e.target.value)}
+          className="p-2 w-full mb-4 border border-gray-300 rounded"
+        />
+        {/* Removed the submit button */}
+        {error && <p className="text-red-500 mt-4">{error}</p>} {/* Display error if present */}
       </div>
     </div>
   );

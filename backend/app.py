@@ -1,11 +1,14 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 from controllers.emotion_controller import get_emotion
 from controllers.restaurant_controller import get_restaurants
 
 app = Flask(__name__)
+CORS(app)
 
 @app.route('/api/emotion', methods=['POST'])
 def handle_request():
+    print("got request!")
     try:
         data = request.get_json()
         if not data or 'user_input' not in data:
