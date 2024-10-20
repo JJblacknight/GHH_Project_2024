@@ -28,6 +28,7 @@
 - [ ] More error handling & printing
 - [ ] If time permits: document API endpoints for frontend
 - [x] Test sending input & receiving output with Postman
+- [ ] Generate new API keys when going private
 
 ### controllers/emotion_controller.py
 - [x] Create method to return a general emotion given the user's input
